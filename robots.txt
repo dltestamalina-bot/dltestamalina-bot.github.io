@@ -1,2 +1,7 @@
+User-agent: GPTBot
+Disallow: /
+
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://dltestamalina-bot.github.io/sitemap.xml
